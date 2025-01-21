@@ -55,7 +55,7 @@ const FeaturedPost = () => {
         <div className="w-1/2 object-cover flex items-center">
           <div className="w-full h-80">
             <img
-              src="https://i.pinimg.com/736x/ae/53/d2/ae53d263151707b102489028e1e4d5ec.jpg"
+              src="https://i.pinimg.com/736x/c6/aa/11/c6aa1175531c6837bb14486d51660df7.jpg"
               alt="Developer illustration"
               className="w-full h-full object-cover"
             />
@@ -148,7 +148,7 @@ const LatestSection = () => {
         "According to IBIS World, 276 businesses on social media platforms in the United Kingdom...",
       category: "App Development",
       image:
-        "https://i.pinimg.com/736x/5d/80/74/5d80749baf87f33c1a453ac17f5ef16f.jpg",
+        "https://i.pinimg.com/736x/e6/e9/5a/e6e95a96cae7aa93448d8aa4e99b66da.jpg",
       author: "Nayan Sharma",
       date: "21 Jan 2025",
     },
@@ -159,7 +159,7 @@ const LatestSection = () => {
         "Keeping up with the daily grind of managing extensive assets and infrastructure can be...",
       category: "Software Development",
       image:
-        "https://i.pinimg.com/736x/90/9b/6b/909b6b53276598fe06ac2fc0605c0824.jpg",
+        "https://i.pinimg.com/736x/2c/cd/88/2ccd88fdf7e5c553498c042803094db1.jpg",
       author: "Nayan Sharma",
       date: "17 Jan 2025",
     },
@@ -283,21 +283,21 @@ const MobileDevelopmentTabs = () => {
         articles: [
           {
             image:
-              "https://i.pinimg.com/736x/2c/e1/80/2ce180ff97a6d078bfc3da7eb849f56d.jpg",
+              "https://i.pinimg.com/736x/2c/cd/88/2ccd88fdf7e5c553498c042803094db1.jpg",
             category: "React Native Development",
             title: "How Much Does React Native App Development Costs?",
             author: "Sudeep",
           },
           {
             image:
-              "https://i.pinimg.com/736x/09/23/65/09236563b80ae7f45392a9e2268b86bb.jpg",
+              "https://i.pinimg.com/736x/65/92/01/659201a9467e56bdf4697a6c001e4b69.jpg",
             category: "React Native Development",
             title: "How app development with react native can reduce cost?",
             author: "Prateek",
           },
           {
             image:
-              "https://i.pinimg.com/736x/5d/80/74/5d80749baf87f33c1a453ac17f5ef16f.jpg",
+              "https://i.pinimg.com/736x/c8/04/8b/c8048b14a88a9bf1dd58ab816a0248a3.jpg",
             category: "React Native Development",
             title: "Is React Native the Right Choice for Your App?",
             author: "Maya",
